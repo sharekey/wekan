@@ -22,12 +22,6 @@ image:
 
 replicaCount: 1
 
-## Specify wekan credentials
-##
-credentials:
-  accessKey: access-key
-  secretKey: secret-key
-
 ## Specify additional environmental variables for the Deployment
 ##
 env:
